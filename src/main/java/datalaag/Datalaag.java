@@ -8,8 +8,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Datalaag {
-    private final String gebruikersnaam = "eloict";
-    private final String wachtwoord = "Azerty123!";
+    private final String gebruikersnaam = "";
+    private final String wachtwoord = "";
     private final String dbName = "eloictsim";
     private Connection connectie;
 
