@@ -14,7 +14,7 @@ public class Demo {
         //System.out.println(test.geefPersonenLijst());
         //System.out.println(test.geefDeurenLijst());
         //System.out.println(((Student)test.geefInformatiepuntenLijst().get(1).getPersoon()).getBeroepsprofiel());
-        //test.voegDocentToe(new Docent("jef", "test", "dikkerol"));
+        //test.voegDocentToe(new Docent("jef", "test", "rol"));
         System.out.println(test.geefVakkenLijst());
     }
 }
